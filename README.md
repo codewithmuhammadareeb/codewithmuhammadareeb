@@ -38,32 +38,42 @@
 
 ---
 
-## 📂 **Featured Projects (Links Updated)**
+## 📂 **Featured Projects**
 
-| 🚀 Project | 🔗 Links |
-|:----------:|:--------:|
-| **💰 CashKaro E-Wallet App** | [Code](https://github.com/codewithmuhammadareeb/cashkaro-wallet) |
-| **🛒 ReBuy Marketplace UI** | [Code](https://github.com/codewithmuhammadareeb/rebuy-marketplace) |
-| **💬 WhatsApp UI Clone** | [Code](https://github.com/codewithmuhammadareeb/whatsapp-ui) |
+<div align="center">
+
+### 💼 **Latest Flutter Projects**
+
+| 🚀 Project | 📝 Description | 🛠️ What I Did | 🔗 Links |
+|:----------:|:---------------|:--------------:|:--------:|
+| **💰 CashKaro E-Wallet App** | Digital Wallet UI inspired by EasyPaisa/JazzCash | • Splash Screen<br>• Dashboard UI<br>• Send Money Page<br>• Transaction Layout<br>• Reusable Widgets | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/codewithmuhammadareeb/cashkaro-wallet) |
+| **🛒 ReBuy Marketplace UI** | Modern marketplace UI for product browsing | • Complete UI Design<br>• Product Listing<br>• Product Details<br>• Search + Categories<br>• Responsive Design | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/codewithmuhammadareeb/rebuy-marketplace) |
+| **💬 WhatsApp UI Clone** | Full WhatsApp clone with all features | • Chats/Status/Calls Tabs<br>• Theme Toggle<br>• Search Bar<br>• 3-Dots Menu<br>• Dark Mode Support | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/codewithmuhammadareeb/whatsapp-ui) |
+
+</div>
 
 ---
 
-## 📊 **GitHub Statistics (Updated)**
+## 📊 **GitHub Statistics**
 
+<div align="center">
+  
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=codewithmuhammadareeb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmuhammadareeb&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=codewithmuhammadareeb&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=codewithmuhammadareeb&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmuhammadareeb&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmuhammadareeb&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" width="100%" alt="Activity Graph"/>
+
+</div>
 
 ---
 
-## 📫 **Get In Touch (Updated)**
+## 📫 **Get In Touch**
 
 <p align="center">
   <a href="https://github.com/codewithmuhammadareeb">
