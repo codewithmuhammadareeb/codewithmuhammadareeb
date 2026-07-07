@@ -1,268 +1,219 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hi+👋+I'm+Muhammad+Areeb;Flutter+Developer+from+Pakistan;Building+Clean+%26+Responsive+Apps&color=FFFFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=850&height=80&duration=4000&pause=800&color=38BDF8&lines=Hi+👋,+I'm+Muhammad+Areeb;Flutter+Developer+from+Karachi;Building+Clean+Responsive+Mobile+Apps" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Flutter+Developer;Dart+%7C+Firebase+%7C+REST+APIs;Figma+%7C+UI%2FUX+Implementation;Junior+Developer+Open+to+Work" alt="Typing SVG" />
+  Flutter Developer | Mobile App Developer | Dart, Firebase, REST APIs, GetX/Provider
 </h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlxemc0enNyOGdmNzF6OTYzcjFsZ3J5ZjU1NTJrZmJrbGk3ODhubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Flutter Developer at Work"/>
+  I build clean, responsive, and user-friendly mobile applications using Flutter, Dart, Firebase, REST APIs, and modern state management.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithmuhammadareeb&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/codewithmuhammadareeb?tab=followers">
-    <img src="https://img.shields.io/github/followers/codewithmuhammadareeb?label=Followers&style=social" alt="GitHub Badge" />
-  </a>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="600" alt="Developer Coding Animation" />
 </p>
-
----
-
-## 📋 **Contact Information**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Karachi,_Pakistan-00b894?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Phone-0346%201901848-25D366?style=for-the-badge&logo=whatsapp" />
-  <img src="https://img.shields.io/badge/Email-muhamadareeb360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadareeb360/">
-    <img src="https://img.shields.io/badge/LinkedIn-muhammadareeb360-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/codewithmuhammadareeb">
-    <img src="https://img.shields.io/badge/GitHub-codewithmuhammadareeb-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 **About Me**
-
-> **Junior Flutter Developer** focused on building clean, responsive mobile and web apps using Flutter, Firebase, and REST APIs. I create structured, maintainable code and user-friendly UI/UX experiences. Through hands-on projects, I continuously improve my Dart skills and app architecture knowledge. Open to internships, collaborations, and professional opportunities.
-
----
-
-## 🏆 **Top Skills**
-
-<div align="center">
-
-### **Core Expertise**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### **Specialized Skills**
-<p>
-  <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Widgets-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Animations-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/UI/UX_Implementation-FF69B4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Authentication-FFCA28?style=flat-square" />
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square" />
-  <img src="https://img.shields.io/badge/Realtime_Database-FFCA28?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square" />
-</p>
-
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **Web Basics**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
----
-
-## 📜 **Certifications**
-
-<div align="center">
-
-| 🏅 Certification | 🎓 Issuing Organization | 📅 Date |
-|:----------------:|:----------------------:|:-------:|
-| **Vibe Coding** | Sololearn | Jan 2026 |
-| **Flutter and Dart: Developing iOS Android and Mobile Applications** | Coursera | Aug 2025 |
-
-</div>
-
----
-
-## 🎓 **Education**
-
-<div align="center">
-  
-**St. Patrick's High School, Karachi**
-
-</div>
-
----
-
-## 📂 **Featured Projects**
-
-<div align="center">
-
-### 💼 **Latest Flutter Projects**
-
-| 🚀 Project | 📝 Description | 🛠️ What I Did | 🔗 Links |
-|:----------:|:---------------|:--------------:|:--------:|
-| **💰 CashKaro E-Wallet App** | Digital Wallet UI inspired by EasyPaisa/JazzCash | • Splash Screen<br>• Dashboard UI<br>• Send Money Page<br>• Transaction Layout<br>• Reusable Widgets | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/codewithmuhammadareeb/cashkaro-wallet) |
-| **🛒 ReBuy Marketplace UI** | Modern marketplace UI for product browsing | • Complete UI Design<br>• Product Listing<br>• Product Details<br>• Search + Categories<br>• Responsive Design | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/codewithmuhammadareeb/rebuy-marketplace) |
-| **💬 WhatsApp UI Clone** | Full WhatsApp clone with all features | • Chats/Status/Calls Tabs<br>• Theme Toggle<br>• Search Bar<br>• 3-Dots Menu<br>• Dark Mode Support | [![Repo](https://img.shields.io/badge/-Code-181717?style=flat&logo=github)](https://github.com/codewithmuhammadareeb/whatsapp-ui) |
-
-### 🎯 **Project Highlights**
-
-<details>
-<summary>💰 CashKaro E-Wallet App (Aug 2025 - Present)</summary>
-<br>
-<p>
-<strong>An e-wallet app UI inspired by EasyPaisa/JazzCash.</strong> Designed a simple and intuitive interface for sending money, viewing transactions, and navigating wallet features.
-</p>
-<p>
-✅ Splash screen<br>
-✅ Dashboard UI<br>
-✅ Send money page<br>
-✅ Transaction layout<br>
-✅ Reusable custom widgets
-</p>
-<p>
-<strong>Skills:</strong> Flutter (Responsive UI, Widgets, Animations) · Figma · UI/UX Implementation · Responsive Design · Dart
-</p>
-</details>
-
-<details>
-<summary>🛒 ReBuy App — Marketplace UI</summary>
-<br>
-<p>
-<strong>A clean and modern marketplace-style mobile UI built using Flutter.</strong> Users can browse products, view details, navigate between categories, and explore a smooth shopping layout inspired by real e-commerce apps.
-</p>
-<p>
-✅ Complete UI design in Flutter<br>
-✅ Product listing screen<br>
-✅ Product detail layout<br>
-✅ Search bar + category sections<br>
-✅ Responsive design
-</p>
-<p>
-<strong>Skills:</strong> Flutter (Responsive UI, Widgets, Animations) · Figma · UI/UX Implementation · Responsive Design · Dart
-</p>
-</details>
-
-<details>
-<summary>💬 WhatsApp UI Clone</summary>
-<br>
-<p>
-<strong>A functional multi-screen UI clone of WhatsApp</strong> with Chats, Status, and Calls tabs. Includes theme toggle, search bar, and 3-dots menu for a real-app feel.
-</p>
-<p>
-✅ Full WhatsApp UI<br>
-✅ Chat list design<br>
-✅ Status & Calls tab<br>
-✅ AppBar features (search, menu, settings)<br>
-✅ Dark mode support
-</p>
-<p>
-<strong>Skills:</strong> Flutter (Responsive UI, Widgets, Animations) · UI/UX Implementation · Responsive Design · Dart
-</p>
-</details>
-
-</div>
-
----
-
-## 📊 **GitHub Statistics**
-
-<div align="center">
-  
-### 📈 **Stats & Streak**
-  
-<!-- GitHub Stats Cards -->
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=codewithmuhammadareeb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmuhammadareeb&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<!-- GitHub Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=codewithmuhammadareeb&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
-
-<br/>
-
-### 📌 **Contribution Graph**
-  
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmuhammadareeb&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🌐 **Languages**
-
-<div align="center">
-  
-| Language | Proficiency |
-|:--------:|:-----------:|
-| **English** | Professional Working Proficiency |
-
-</div>
-
----
-
-## 🎯 **Current Focus**
-
-- 🔭 **Currently Learning:** Advanced State Management (BLoC & GetX)
-- 🚀 **Working on:** CashKaro E-Wallet App (Aug 2025 - Present)
-- 💼 **Looking for:** Internships & Junior Developer Roles
-- 📱 **Latest Project:** E-Wallet UI inspired by EasyPaisa/JazzCash
-- ⚡ **Open to:** Collaborations & Opportunities
-
----
-
-## 📫 **Get In Touch**
-
-<div align="center">
-  
-### **I'm open to:**
-🎯 Internships | 🤝 Collaborations | 💼 Junior Developer Roles
-
-### **Quick Contact:**
 
 <p align="center">
   <a href="mailto:muhamadareeb360@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muhamadareeb360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-muhamadareeb360%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/923461901848">
-    <img src="https://img.shields.io/badge/WhatsApp-0346-1901848-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammadareeb360/">
+    <img src="https://img.shields.io/badge/LinkedIn-muhammadareeb360-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/codewithmuhammadareeb">
+    <img src="https://img.shields.io/badge/GitHub-codewithmuhammadareeb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadareeb360/">
-    <img src="https://img.shields.io/badge/LinkedIn-muhammadareeb360-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/codewithmuhammadareeb">
-    <img src="https://img.shields.io/badge/GitHub-codewithmuhammadareeb-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=codewithmuhammadareeb&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/codewithmuhammadareeb?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-📍 **Location:** Karachi, Pakistan
+---
+
+## 👨‍💻 About Me
+
+I'm **Muhammad Areeb**, a Flutter Developer from **Karachi, Pakistan**.
+
+I focus on building practical mobile applications with clean UI, responsive layouts, reusable widgets, smooth navigation, API integration, Firebase integration, and maintainable project structure.
+
+My goal is to grow as a production-ready Flutter developer by building real-world projects and contributing to professional mobile development teams.
+
+- 🔭 Currently building Flutter projects with real app flows  
+- 📱 Focused on Flutter, Dart, Firebase, REST APIs, GetX, Provider, and responsive UI  
+- 🧠 Improving clean architecture, state management, debugging, and app performance  
+- 💼 Open to Flutter Internship, Junior Flutter Developer, and Mobile App Developer opportunities  
+- 📍 Based in Karachi, Pakistan  
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-2563EB?style=for-the-badge)
+
+### Backend & APIs
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloud Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### UI & Design
+
+![Responsive UI](https://img.shields.io/badge/Responsive%20UI-0EA5E9?style=for-the-badge)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![UI UX](https://img.shields.io/badge/UI%2FUX%20Implementation-EC4899?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
+## 📂 Featured Projects
+
+### 🛒 MarketMate – Flutter E-Commerce App
+
+A Flutter e-commerce mobile app focused on product discovery, shopping flow, clean UI, dark mode, and responsive mobile layouts.
+
+**Key Features**
+
+- Authentication flow  
+- Product listing  
+- Product categories  
+- Search functionality  
+- Product detail screen  
+- Cart actions  
+- Buyer-seller chat interface  
+- User profile screen  
+- Dark mode support  
+- Responsive mobile UI  
+
+**Tech Stack:** Flutter, Dart, GetX, REST APIs, Material Design, Responsive UI  
+
+🔗 **Repository:** https://github.com/codewithmuhammadareeb/marketmate-ui
+
+---
+
+### 💰 CashKaro – Flutter Digital Wallet App
+
+A Flutter digital wallet app focused on fintech-style UI, transaction flow, animated wallet card UI, and responsive mobile screens.
+
+**Key Features**
+
+- Wallet dashboard  
+- Transaction history screen  
+- Animated wallet card UI  
+- Send money screen  
+- Reusable widgets  
+- Responsive UI  
+- Smooth navigation  
+
+**Tech Stack:** Flutter, Dart, BLoC/Cubit, Responsive UI, Custom Widgets  
+
+🔗 **Repository:** https://github.com/codewithmuhammadareeb/E-Wallet-App-UI---CashKaro
+
+---
+
+### 💬 WhatsApp UI Clone
+
+A Flutter WhatsApp UI clone with tab-based navigation and clean mobile UI inspired by real chat applications.
+
+**Key Features**
+
+- Chats screen  
+- Status screen  
+- Calls screen  
+- Custom app bar  
+- Search UI  
+- Dark mode support  
+- Responsive layout  
+
+**Tech Stack:** Flutter, Dart, Responsive UI, Dark Mode  
+
+🔗 **Repository:** https://github.com/codewithmuhammadareeb/watsapp-ui---in-flutter
+
+---
+
+## 🏆 Certifications
+
+| Certification | Platform / Organization |
+|-------------|--------------------------|
+| Flutter and Dart: Developing iOS and Android Mobile Applications | Coursera |
+| Flutter Application Development | Jawan Pakistan |
+| Vibe Coding: AI-assisted Development | SoloLearn |
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  
-### ⭐ **"Building clean code and better experiences, one widget at a time."** ⭐
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+👋;Check+out+my+latest+CashKaro+E-Wallet+App;Open+to+work+and+collaborations;Let's+create+something+awesome+together!+✨" alt="Typing SVG" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=codewithmuhammadareeb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Muhammad%20Areeb%20|%20Flutter%20Developer&fontSize=20&fontColor=white)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmuhammadareeb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=codewithmuhammadareeb&theme=tokyonight&hide_border=true" width="55%" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithmuhammadareeb&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff" width="100%" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building production-ready Flutter projects  
+- Improving GetX, Provider, Firebase, Firestore, REST API integration, and Supabase  
+- Strengthening clean architecture and reusable widget structure  
+- Improving GitHub project documentation with screenshots and demo links  
+- Preparing for Flutter Internship and Junior Flutter Developer opportunities  
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/muhammadareeb360/  
+- **GitHub:** https://github.com/codewithmuhammadareeb  
+- **Email:** muhamadareeb360@gmail.com  
+- **Location:** Karachi, Pakistan  
+
+---
+
+<div align="center">
+
+### Open to Flutter Internship, Junior Flutter Developer, and Mobile App Developer roles
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Check+out+my+Flutter+projects;Let's+build+clean+and+useful+apps+together." alt="Typing SVG" />
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:2563EB&height=120&section=footer" width="100%" alt="Footer" />
 
 </div>
